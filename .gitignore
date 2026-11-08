@@ -50,3 +50,12 @@ qa-*.jpg
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ferramentas locais
+CLAUDE.md
+AGENTS.md
+.claude/
+.agents/
+.cursor/
+.mcp.json
+skills-lock.json
